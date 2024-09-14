@@ -1,0 +1,2 @@
+Bintang Khalifa Hadianto_Thevenin
+Program konverter suhu yang telah kamu buat adalah aplikasi sederhana yang berfungsi untuk mengubah satuan suhu dari satu bentuk ke bentuk lainnya. Umumnya, program ini akan menerima input berupa suhu dalam satu satuan (misalnya Celsius, Fahrenheit, atau Kelvin), kemudian mengonversinya ke satuan lain sesuai pilihan pengguna. Program ini biasanya menggunakan rumus matematika yang sesuai untuk mengonversi suhu antara satuan-satuan tersebut.
